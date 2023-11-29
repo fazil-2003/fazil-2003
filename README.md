@@ -8,7 +8,7 @@ LinkedIn: Find me as Mohamed Fazil @ https://www.linkedin.com/in/mohamed-fazil-a
 
 # 💻 What I Do
 I craft visually pleasing UIs efficiently HTML, CSS and Flutter 🎨
-Discord is my go-to for communication - catch me there as 2003.Morningstar
+Discord \- catch me there as 2003.Morningstar
 
 # 🌱 Learning & Exploring
 Currently immersing myself in the world of React ⚛️ and Svelite
