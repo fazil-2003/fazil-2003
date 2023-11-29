@@ -1,4 +1,5 @@
-# Hello, I'm Fazil-2003, and address me as "Morningstar" Welcome to my digital domain! Here you'll find a mishmash of my coding endeavors, some of which might be in a state of temporary hibernation. I aspire to reach the zenith of a fully realized project someday.
+# Hello👋 all , I'm Fazil-2003, aka "Morningstar"
+Welcome to my digital domain! Here you'll find a mishmash of my coding endeavors, some of which might be in a state of temporary hibernation. I aspire to reach the zenith of a fully realized project someday.
 
 # 🛠️ Technologies & Tools
 Programming Languages: HTML, CSS, Python, Java, JavaScript
