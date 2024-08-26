@@ -5,7 +5,10 @@ Welcome to my digital domain! Here you'll find a mishmash of my coding endeavors
 
 # 🛠️ Technologies & Tools
 Programming Languages: HTML, CSS, Python, Java, JavaScript <br>
-LinkedIn: Find me as Mohamed Fazil @ https://www.linkedin.com/in/mohamed-fazil-a21019252/
+LinkedIn: Find me as Mohamed Fazil @ <br>
+https://www.linkedin.com/in/mohamed-fazil-a21019252/ <br>
+Discord : Oops i forget the userid i think its :) /- <br>
+yeah its catch me there @ 2003.Morningstar <br>
 
 # 💻 What I Do
 I craft visually pleasing UIs efficiently HTML, CSS and Flutter 🎨
